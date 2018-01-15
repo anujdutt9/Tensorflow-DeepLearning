@@ -13,6 +13,8 @@
 
 # Code List
 
-| S.No. |         File Name                |                       Aim                               |         Status           |
+| S.No. |         Folder Name              |                       About                             |         Status           |
 | ----- | -------------------------------- | ------------------------------------------------------- | ------------------------ |
-|   1.  |                                  |                                                         |                          |
+|   1.  |  Intro to Tensorflow DL          | This covers Tensorflow Basics like Placeholders, Variables, Constants etc. It also coveres "Tensorflow Estimator API" for Regression & Classification with projects.|      Completed             |
+|   2.  |  Convolutional Neural Networks   | This covers the basics of CNN along with some basic projects.|    Ongoing          |
+|   3.  | | | |
