@@ -10,6 +10,7 @@
 
 **3. IPython Jupyter Notebook**
 
+**4. Numpy 1.14.0 [+ mkl for Windows]** 
 
 # Code List
 
@@ -26,4 +27,3 @@
 | 	9.  |  [TF Estimator DNN Regressor](https://github.com/anujdutt9/Tensorflow-DeepLearning/blob/master/Intro-to-Tensorflow-DL/TF-DNNRegressor.ipynb)      | Implemetation of DNN Classifier using TF Estmator API.  |        Ongoing           |       
 |   10. | [TF Estimator Linear Classifier](https://github.com/anujdutt9/Tensorflow-DeepLearning/blob/master/Intro-to-Tensorflow-DL/TFEstimator-LinearClassifier.ipynb) | Implementation of Neural Network for Linear Classification using TF Estimator API.| Completed |
 |	  11. |  [Saving and Restoring Models](https://github.com/anujdutt9/Tensorflow-DeepLearning/blob/master/Intro-to-Tensorflow-DL/Save-and-Restore-Models.ipynb)     | How to save and restore saved models in Tensorflow.     |        Completed         |
-
