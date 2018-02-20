@@ -1,0 +1,2 @@
+model_checkpoint_path: "gru_time_series_model"
+all_model_checkpoint_paths: "gru_time_series_model"
