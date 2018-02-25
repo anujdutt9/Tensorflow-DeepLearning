@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf-layers-trained-model"
+all_model_checkpoint_paths: "tf-layers-trained-model"
