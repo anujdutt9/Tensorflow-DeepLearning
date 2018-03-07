@@ -152,7 +152,6 @@ env = gym.make('CartPole-v0')
 
 observations = env.reset()
 with tf.Session() as sess:
-    # https://www.tensorflow.org/api_guides/python/meta_graph
     new_saver = tf.train.import_meta_graph('./models/my-750-step-model.meta')
     new_saver.restore(sess,'./models/my-750-step-model')
 
